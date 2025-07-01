@@ -1,0 +1,16 @@
+Over the last two weeks, I have explored and practiced the core concepts of Generative AI (GenAI), including how Large Language Models (LLMs) like ChatGPT can be used to solve real-world problems creatively and efficiently.
+
+ Week 1 – Introduction to GenAI
+- Learned how LLMs generate human-like text and respond to complex queries.
+- Understood basic GenAI terms like tokens, prompt, temperature, top-k sampling, and model fine-tuning.
+- Explored how AI models are trained and how they continue learning through reinforcement.
+- Practiced writing prompts for summarizing documents, translating text, and creating stories.
+
+ Week 2 – Prompt Engineering and Use Cases
+- Studied the structure of a good prompt (Context → Instruction → Output format).
+- Discovered prompt types: zero-shot, few-shot, and chain-of-thought prompting.
+- Experimented with prompt tuning for more accurate and specific responses.
+- Learned real-life use cases in content generation, summarization, tutoring, and creative writing.
+
+ Reflection
+I realized that the quality of output depends heavily on how we frame the prompt. These tools can be highly beneficial in fields like education, healthcare, and marketing. With proper handling, GenAI can support learning, automate tasks, and reduce mental load. I’m excited to continue practicing and applying these skills.
